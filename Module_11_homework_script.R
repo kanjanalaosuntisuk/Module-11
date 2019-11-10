@@ -1,7 +1,7 @@
 ##### BAE590 Module 11 homework script
 ##### Author: Kanjana Laosuntisuk
 ##### Date created: Nov 8, 2019
-##### Last modified: Nov 8, 2019
+##### Last modified: Nov 10, 2019
 
 # clear workspace & load packages
 rm(list=ls(all=TRUE))
